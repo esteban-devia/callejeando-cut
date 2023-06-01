@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 24" width="27" height="24">
+	<title>Menu-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #000000 } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m20.79 12.28h-14.58c-0.43 0-0.78-0.35-0.78-0.78c0-0.43 0.35-0.78 0.78-0.78h14.58c0.43 0 0.78 0.35 0.78 0.78c0 0.43-0.35 0.78-0.78 0.78v0z" />
+	<path fill-rule="evenodd" class="s0" d="m20.79 7.07h-14.58c-0.43 0-0.78-0.35-0.78-0.78c0-0.43 0.35-0.78 0.78-0.78h14.58c0.43 0 0.78 0.35 0.78 0.78c0 0.43-0.35 0.78-0.78 0.78v0z" />
+	<path fill-rule="evenodd" class="s0" d="m20.79 17.49h-14.58c-0.43 0-0.78-0.35-0.78-0.78c0-0.43 0.35-0.78 0.78-0.78h14.58c0.43 0 0.78 0.35 0.78 0.78c0 0.43-0.35 0.78-0.78 0.78v0z" />
+</svg>
